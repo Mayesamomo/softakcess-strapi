@@ -1,0 +1,9 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "soft-akcess",
+    "api_key": "936715136392134",
+    "api_secret": "We1Z2RyXWAYP_rcEBB6Wl158Reo"
+  }
+}
+
